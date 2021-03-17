@@ -1,6 +1,6 @@
 # SmallCodeSnippets
 
-The SmallCodeSnippets is like the name also sugests, a small collection of small code snippets 🕵️.
+The SmallCodeSnippets is like the name sugests, a small collection of small code snippets 🕵️.
 
 Overall its just small code chunks that i created to play around alittle.
 
