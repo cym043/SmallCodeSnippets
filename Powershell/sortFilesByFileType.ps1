@@ -1,4 +1,5 @@
-﻿function sortFilesByExtension($path){
+﻿#Pass the path with the files to the function like this: sortFilesByExtension C:\dummy\path
+ function sortFilesByExtension($path){
     
     #Get the files from the passed path and put them into an array
     $arr = (dir $path)
